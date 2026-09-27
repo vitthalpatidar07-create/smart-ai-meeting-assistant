@@ -1,0 +1,36 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+*.db
+
+# Uploads
+backend/uploads/
+
+# IDE
+.vscode/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Processed audio
+backend/processed_audio/
+
+# Root processed audio
+processed_audio/
+
+# Audio files
+*.mp3
+*.wav
+
+
